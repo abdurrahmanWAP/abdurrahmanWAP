@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![AbdurrahmanWAP](img/github-header-banner.png)
 <h1 align="left">💫 About Me:</h1>
 
